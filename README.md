@@ -1,4 +1,4 @@
-### Olá, eu sou Lucas Rocha
+### Olá, eu sou Lucas Rocha 🙃 
 
 <div>
     <a href="https://github.com/santoslucas11">
