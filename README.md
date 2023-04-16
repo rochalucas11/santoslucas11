@@ -28,6 +28,9 @@
     <a href="mailto:csantoslucas.dev@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
+    <a href="https://santoslucas11.github.io/portfolio-lucas/#home" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
     <a href="https://www.linkedin.com/in/santoslucas27/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
