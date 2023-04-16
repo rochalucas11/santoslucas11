@@ -29,7 +29,7 @@
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
     <a href="https://santoslucas11.github.io/portfolio-lucas/#home" target="_blank"><img
-            src="https://img.shields.io/badge/-My%20Site-blue"
+            src="https://img.shields.io/website?style=for-the-badge&up_color=Blue&up_message=My%20Portfolio&url=https%3A%2F%2Fsantoslucas11.github.io%2Fportfolio-lucas%2F%23home"
             target="_blank"></a>
     <a href="https://www.linkedin.com/in/santoslucas27/" target="_blank"><img
             src="https://img.shields.io/website-%23333?style=for-the-badge&logo=gmail&logoColor=white"
