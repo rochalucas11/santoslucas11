@@ -29,10 +29,10 @@
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
     <a href="https://santoslucas11.github.io/portfolio-lucas/#home" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/-My%20Site-blue"
             target="_blank"></a>
     <a href="https://www.linkedin.com/in/santoslucas27/" target="_blank"><img
-            src="https://img.shields.io/website"
+            src="https://img.shields.io/website-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
 
   ![Snake animation](https://github.com/santoslucas11/santoslucas11/blob/output/github-contribution-grid-snake.svg)
